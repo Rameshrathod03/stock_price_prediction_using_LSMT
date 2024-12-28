@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Stock Market Prediction and Forecasting Using Stacked LSTM
 
@@ -56,3 +57,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or new features.
+=======
+# stock_price_prediction_using_LSMT
+>>>>>>> 141c3036aa4c13e3e4d5eb94648c1acf9d6a9a9e
